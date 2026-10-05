@@ -1,0 +1,128 @@
+NEXUS CRM — SALES OBJECTION HANDLING PLAYBOOK
+For Nexus Sales Representatives | Confidential | October 2024
+
+═══════════════════════════════════════════════════════
+INTRODUCTION
+═══════════════════════════════════════════════════════
+
+This playbook provides approved responses to the most common customer objections.
+Do not make promises beyond what is documented here. If a customer requests a
+discount or exception not covered in this playbook, escalate to your sales manager.
+
+═══════════════════════════════════════════════════════
+OBJECTION 1: "IT'S TOO EXPENSIVE"
+═══════════════════════════════════════════════════════
+
+Customer says: "₹2,499 per user is too much for us."
+
+Approved responses:
+
+Response A — ROI framing:
+"I understand price is a consideration. Most of our Professional customers find that
+Nexus CRM recovers its cost within 60–90 days through time savings on manual tracking
+and faster deal closures. For a 10-person team, the monthly cost is ₹24,990 — but if
+your team closes even one additional deal per month, the ROI is very clear."
+
+Response B — Annual billing:
+"Our annual billing option brings Professional down to ₹1,999 per user per month —
+a 20% saving. For a 10-user team, that's a saving of ₹60,000 over a year."
+
+Response C — Starter as entry point:
+"If budget is a concern right now, our Starter plan at ₹999 per user per month gives
+your team the core CRM features. You can upgrade to Professional when you're ready."
+
+Response D — Free trial:
+"The best way to see the value is to use it. Our 14-day free trial requires no credit
+card. Let's get your team started and we can revisit pricing once you've seen the impact."
+
+What NOT to say:
+- Do not offer discounts beyond the published volume or annual discounts without manager approval.
+- Do not promise custom pricing to teams with fewer than 50 users without escalation.
+
+═══════════════════════════════════════════════════════
+OBJECTION 2: "WE'RE ALREADY USING EXCEL / SPREADSHEETS"
+═══════════════════════════════════════════════════════
+
+Customer says: "We manage everything in Excel. Why do we need a CRM?"
+
+Approved response:
+"Excel works well for small data sets, but as your team grows, it creates challenges:
+version conflicts when multiple people edit, no automated follow-up reminders, no
+visibility into who did what, and no forecasting. Nexus CRM gives you a single source
+of truth, automated workflows, and real-time dashboards — so your managers can see
+pipeline health without asking each rep for an update. We also import your existing
+Excel data for free, so migration is seamless."
+
+═══════════════════════════════════════════════════════
+OBJECTION 3: "WE'RE NOT READY TO SWITCH RIGHT NOW"
+═══════════════════════════════════════════════════════
+
+Customer says: "This looks good, but now is not the right time."
+
+Approved responses:
+
+Response A — Timing urgency:
+"I completely understand timing matters. May I ask — is there a specific event (quarter
+end, team expansion, financial year start) after which it would be a better time?
+I can schedule a follow-up then so you don't have to start from scratch."
+
+Response B — Free trial offer:
+"Starting a 14-day trial requires zero commitment and no credit card. You can explore
+the platform at your own pace, and we can pick up the conversation whenever you're ready."
+
+Response C — Cost of delay:
+"Every month without a proper CRM is a month where leads may fall through the cracks.
+The free trial lets you start capturing leads today without disrupting your current process."
+
+═══════════════════════════════════════════════════════
+OBJECTION 4: "WE TRIED A CRM BEFORE AND IT DIDN'T WORK"
+═══════════════════════════════════════════════════════
+
+Customer says: "We tried Salesforce / Zoho before and our team didn't adopt it."
+
+Approved response:
+"That's a very common experience, and it's usually not about the product — it's about
+the implementation. The biggest reasons CRM implementations fail are: lack of proper
+onboarding, too complex a system for the team's needs, and no internal champion to
+drive adoption. Nexus CRM is designed to be simpler than Salesforce or Zoho for Indian
+teams. Our Professional plan includes a 2-hour onboarding session, and our UI is
+available in Hindi to lower the learning curve. We'd love to show you a demo tailored
+to your team's workflow."
+
+═══════════════════════════════════════════════════════
+OBJECTION 5: "WE NEED TO THINK ABOUT IT / DISCUSS WITH THE TEAM"
+═══════════════════════════════════════════════════════
+
+Customer says: "I need to discuss this with my manager / co-founder / team."
+
+Approved response:
+"Absolutely — this is a team decision and it makes sense to involve everyone. Would
+it be helpful if I sent you a one-page summary of Nexus CRM's features and pricing
+that you can share internally? I can also arrange a 30-minute demo call with your
+full team at a time that works. Who else would typically be involved in this decision?"
+
+Follow-up: Try to identify the decision-maker and schedule a group demo.
+
+═══════════════════════════════════════════════════════
+OBJECTION 6: "DO YOU HAVE A FEATURE FOR [SPECIFIC NEED]?"
+═══════════════════════════════════════════════════════
+
+If the feature exists: Confirm from the product documentation and offer a demo.
+If the feature doesn't exist: "That's a great requirement. This isn't in our current
+release, but I'll log it as a feature request. Our product team reviews requests
+quarterly. In the meantime, many customers solve this using our webhook/API integration
+with [relevant tool]."
+
+Do not promise a feature that does not exist or a specific delivery date.
+
+═══════════════════════════════════════════════════════
+DISCOUNT AUTHORIZATION MATRIX
+═══════════════════════════════════════════════════════
+
+Annual billing:          Sales Rep can offer (20% off monthly rate)
+Volume discount:         Sales Rep can offer (per published table)
+NGO discount (30%):      Sales Manager approval required
+Startup Program (50%):   Sales Manager approval required
+Custom deal discount:    VP Sales approval required
+
+Never offer discounts not listed above without written approval.

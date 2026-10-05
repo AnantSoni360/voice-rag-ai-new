@@ -1,0 +1,92 @@
+NEXUS CRM — PRODUCT OVERVIEW
+Company: Nexus Software Pvt. Ltd.
+Version: 4.2 | Last Updated: October 2024
+
+═══════════════════════════════════════════════════════
+WHAT IS NEXUS CRM?
+═══════════════════════════════════════════════════════
+
+Nexus CRM is a cloud-based Customer Relationship Management and Project Management
+platform designed for Indian SMEs and enterprises. It helps sales teams track leads,
+manage customer interactions, automate follow-ups, and close deals faster.
+
+Nexus CRM is available in English and Hindi, with a mobile app for Android and iOS.
+
+═══════════════════════════════════════════════════════
+CORE MODULES
+═══════════════════════════════════════════════════════
+
+1. SALES PIPELINE MANAGEMENT
+   - Visual Kanban board for deal tracking
+   - Customizable pipeline stages
+   - Automated deal progression alerts
+   - Win/loss analysis reports
+
+2. CONTACT & LEAD MANAGEMENT
+   - Unlimited contacts and companies
+   - Lead capture from web forms, email, and phone
+   - Duplicate detection and merge
+   - 360-degree customer view with interaction history
+
+3. TASK & PROJECT MANAGEMENT
+   - Assign tasks to team members
+   - Set deadlines and priority levels
+   - Gantt chart view for project timelines
+   - Dependency tracking
+
+4. EMAIL & COMMUNICATION AUTOMATION
+   - Built-in email sequences and templates
+   - WhatsApp Business integration
+   - Automated follow-up reminders
+   - Email open and click tracking
+
+5. REPORTING & ANALYTICS
+   - Real-time dashboards
+   - Custom report builder
+   - Sales forecasting
+   - Team performance metrics
+
+6. INTEGRATION HUB
+   - 50+ pre-built integrations
+   - REST API and webhooks
+   - Zapier and Make (Integromat) connectors
+   - Tally and Zoho Books integration for invoicing
+
+═══════════════════════════════════════════════════════
+WHO IS NEXUS CRM FOR?
+═══════════════════════════════════════════════════════
+
+Nexus CRM is best suited for:
+- B2B sales teams of 5 to 1000+ users
+- Companies with a structured sales process
+- Businesses needing multi-language support (Hindi + English)
+- Organizations looking to replace spreadsheets with a proper CRM
+
+Typical customers include IT services companies, real estate agencies, manufacturing
+firms, financial services, and edtech companies across India.
+
+═══════════════════════════════════════════════════════
+PLATFORM AVAILABILITY
+═══════════════════════════════════════════════════════
+
+- Web application (Chrome, Firefox, Edge, Safari)
+- Android app (Play Store — requires Android 9+)
+- iOS app (App Store — requires iOS 14+)
+- Offline mode available for mobile apps
+- Data sync when connectivity is restored
+
+═══════════════════════════════════════════════════════
+LANGUAGE SUPPORT
+═══════════════════════════════════════════════════════
+
+- English (full support)
+- Hindi (full support, including UI and reports)
+- Additional Indian languages: Gujarati, Tamil, Telugu (partial — Q2 2025 roadmap)
+
+═══════════════════════════════════════════════════════
+DATA STORAGE
+═══════════════════════════════════════════════════════
+
+All customer data is stored in data centers located in Mumbai and Hyderabad, India.
+Nexus CRM is compliant with India's PDPB (Personal Data Protection Bill) guidelines.
+Data is encrypted at rest (AES-256) and in transit (TLS 1.3).

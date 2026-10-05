@@ -1,0 +1,39 @@
+# Nexus CRM - Complete Knowledge Base & Pricing Guide
+
+## Product Overview
+Nexus CRM is an AI-powered Customer Relationship Management platform designed specifically for small to medium businesses (SMBs) in India and globally. It streamlines sales, automates lead scoring, and provides seamless omnichannel communication.
+
+## Pricing Plans
+Nexus CRM offers three main pricing tiers to suit different business sizes:
+
+1. **Starter Plan**:
+   - Price: ₹1,999 / user / month (or $25/user/month).
+   - Ideal for: Solo founders and small teams (up to 5 users).
+   - Features: Basic contact management, email integration, pipeline tracking, and email support.
+   - Limit: Up to 1,000 active leads.
+
+2. **Growth Plan (Most Popular)**:
+   - Price: ₹4,999 / user / month (or $60/user/month).
+   - Ideal for: Growing sales teams (up to 50 users).
+   - Features: Everything in Starter + WhatsApp integration, AI Lead Scoring, automated follow-ups, and priority support.
+   - Limit: Up to 10,000 active leads.
+
+3. **Enterprise Plan**:
+   - Price: Custom pricing (starting at ₹14,999 / user / month).
+   - Ideal for: Large enterprises needing custom solutions.
+   - Features: Everything in Growth + Dedicated Account Manager, API access, custom integrations, advanced reporting, and unlimited leads.
+
+## Key Features & Integrations
+- **WhatsApp Integration**: Nexus CRM natively integrates with WhatsApp Business API, allowing sales reps to send templates, reply to customer inquiries, and track chat history directly inside the CRM.
+- **Email Sync**: Syncs with Gmail and Outlook automatically.
+- **AI Lead Scoring**: Uses predictive AI to score leads from 0 to 100 based on their budget, timeline, and product fit.
+- **Mobile App**: Available for both iOS and Android.
+
+## Free Trial & Policies
+- **Free Trial**: We offer a 14-day free trial on the Growth plan. No credit card is required to sign up.
+- **Refund Policy**: We offer a 30-day money-back guarantee for annual subscriptions. Monthly subscriptions can be canceled anytime but are non-refundable.
+
+## Common Objections & FAQs
+- **"Is it difficult to set up?"**: No! Nexus CRM is famous for its 5-minute setup. We also offer free onboarding calls for Growth plan users.
+- **"Can I import data from Salesforce or HubSpot?"**: Yes, we have a 1-click import wizard for CSVs and direct API importers for Salesforce, HubSpot, and Zoho.
+- **"Do you support Hindi?"**: Yes, the Nexus CRM interface and AI Assistant fully support Hindi, English, and Hinglish.

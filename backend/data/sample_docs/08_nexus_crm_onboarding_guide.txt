@@ -1,0 +1,79 @@
+NEXUS CRM — ONBOARDING GUIDE
+Getting Started in 5 Steps | October 2024
+
+═══════════════════════════════════════════════════════
+STEP 1: ACCOUNT SETUP (Day 1)
+═══════════════════════════════════════════════════════
+
+After signing up:
+1. Log in at app.nexuscrm.in
+2. Complete your organization profile (company name, industry, GST number)
+3. Upload your company logo
+4. Set your time zone and date format (IST is default)
+5. Enable two-factor authentication for your admin account
+
+Select your language: Go to Settings > Language > Hindi or English.
+
+═══════════════════════════════════════════════════════
+STEP 2: INVITE YOUR TEAM (Day 1–2)
+═══════════════════════════════════════════════════════
+
+Go to Settings > Users > Invite Users.
+- Enter email addresses (bulk invite via CSV supported)
+- Assign roles: Admin, Sales Manager, Sales Representative, or Viewer
+- Users receive an invitation email and can set up in 2 minutes
+
+Tip: Start with 3–5 power users before rolling out to the whole team.
+
+═══════════════════════════════════════════════════════
+STEP 3: IMPORT YOUR DATA (Day 2–3)
+═══════════════════════════════════════════════════════
+
+Go to Settings > Import > Contacts or Deals.
+- Download the Nexus CRM import template (CSV)
+- Map your existing columns to Nexus CRM fields
+- Upload and review for errors
+- Confirm import
+
+Data migration from Salesforce, Zoho, HubSpot, or Freshsales:
+Contact support@nexuscrm.in — migration assistance is free for Professional
+and Enterprise customers.
+
+═══════════════════════════════════════════════════════
+STEP 4: SET UP YOUR PIPELINE (Day 3–4)
+═══════════════════════════════════════════════════════
+
+Go to Sales > Pipelines > Create Pipeline.
+Recommended default stages for a B2B sales pipeline:
+1. New Lead
+2. Qualified
+3. Demo Scheduled
+4. Proposal Sent
+5. Negotiation
+6. Closed Won / Closed Lost
+
+Customize stage names and add automation rules (e.g., auto-assign a task when
+a deal moves to "Proposal Sent").
+
+═══════════════════════════════════════════════════════
+STEP 5: SET UP INTEGRATIONS (Day 4–5)
+═══════════════════════════════════════════════════════
+
+Go to Settings > Integrations.
+Recommended first integrations:
+- Gmail or Outlook (sync emails automatically)
+- WhatsApp Business (automated follow-ups)
+- Google Calendar (schedule demo calls from within Nexus CRM)
+- Tally (invoice sync)
+
+All integrations include a setup wizard with step-by-step instructions.
+
+═══════════════════════════════════════════════════════
+TRAINING RESOURCES
+═══════════════════════════════════════════════════════
+
+- Help Center: help.nexuscrm.in (English and Hindi articles)
+- Video tutorials: youtube.com/nexuscrm (Hindi and English playlists)
+- Live onboarding webinar: Every Tuesday 11 AM IST (free, register at nexuscrm.in/webinar)
+- Professional plan: 2-hour private onboarding session included
+- Enterprise plan: Full implementation support included

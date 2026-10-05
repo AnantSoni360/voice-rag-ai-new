@@ -1,0 +1,78 @@
+NEXUS CRM — CUSTOMER SUCCESS STORIES
+October 2024
+
+═══════════════════════════════════════════════════════
+CASE STUDY 1: BRIGHTPATH EDTECH
+Industry: Education Technology | Plan: Professional | Users: 28
+═══════════════════════════════════════════════════════
+
+Challenge:
+BrightPath EdTech, a Pune-based online learning platform, was managing 3,000+
+parent leads in a shared Excel sheet. Sales reps were missing follow-up calls,
+leads were falling through the cracks, and management had no visibility into
+the pipeline.
+
+Solution:
+BrightPath moved to Nexus CRM Professional in January 2024. They set up a 6-stage
+admissions pipeline, configured WhatsApp automated follow-ups in Hindi and English,
+and integrated with their course management system via API.
+
+Results (6 months):
+- Lead conversion rate: 12% → 31%
+- Average follow-up time: 3 days → 4 hours (automated WhatsApp sequence)
+- Sales team productivity: +45% (less time on manual tracking)
+- Monthly revenue increase: ₹18 lakhs attributable to improved lead handling
+
+Testimonial:
+"Nexus CRM changed the way we handle admissions. Our counsellors spend their time
+actually talking to parents instead of updating spreadsheets." — Priya Menon, VP Sales
+
+═══════════════════════════════════════════════════════
+CASE STUDY 2: DELTA INFRASTRUCTURE PVT. LTD.
+Industry: Real Estate | Plan: Enterprise | Users: 120
+═══════════════════════════════════════════════════════
+
+Challenge:
+Delta Infrastructure manages real estate projects across Mumbai and Pune. With 120
+sales staff, 4 project sites, and thousands of property leads, they needed a system
+that could handle complex workflows, multi-city teams, and Tally integration.
+
+Solution:
+Nexus CRM Enterprise with custom deployment on a dedicated cloud instance.
+Territory-based access control, Tally Prime integration for booking payments,
+and custom pipeline stages for each project phase.
+
+Results (12 months):
+- Centralized pipeline across 4 sites — no more siloed spreadsheets
+- Payment tracking against deals reduced disputes by 60%
+- Manager reporting time: 3 hours/week → 20 minutes/week (automated dashboards)
+- Site visit scheduling automated via Google Calendar integration
+
+Testimonial:
+"Before Nexus CRM, we had four Excel files, four teams, and zero coordination.
+Now we have one source of truth." — Rajesh Nair, Director of Sales
+
+═══════════════════════════════════════════════════════
+CASE STUDY 3: FINSERV PARTNERS
+Industry: Financial Services / Insurance | Plan: Professional | Users: 45
+═══════════════════════════════════════════════════════
+
+Challenge:
+FinServ Partners, a Mumbai-based financial advisory firm, needed a compliant CRM that
+could handle sensitive client data, support Hindi-speaking advisors, and integrate with
+their document management workflow.
+
+Solution:
+Nexus CRM Professional with MFA enabled, Hindi UI for field advisors, and API
+integration with their document vault. Custom fields for policy numbers, renewal dates,
+and premium amounts.
+
+Results:
+- Policy renewal reminders automated: 0 missed renewals in 6 months
+- New advisors onboarded 60% faster with the Hindi UI
+- Client satisfaction score (NPS): 42 → 67 within 8 months
+- Audit compliance: full client interaction history available for regulatory review
+
+Testimonial:
+"The Hindi interface was the deciding factor for us. Our field advisors are far more
+comfortable and productive." — Anita Kapoor, Head of Operations

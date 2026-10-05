@@ -1,0 +1,69 @@
+NEXUS CRM — DATA SECURITY AND PRIVACY POLICY
+Version 3.1 | October 2024
+
+═══════════════════════════════════════════════════════
+DATA STORAGE
+═══════════════════════════════════════════════════════
+
+All Nexus CRM customer data is stored exclusively within India.
+Primary data center: Mumbai (Tier III certified)
+Disaster recovery site: Hyderabad (Tier III certified)
+
+Enterprise customers may request alternative data residency configurations.
+
+═══════════════════════════════════════════════════════
+ENCRYPTION
+═══════════════════════════════════════════════════════
+
+At rest: AES-256 encryption for all stored data and database backups.
+In transit: TLS 1.3 for all API and browser communications.
+Field-level encryption: Available on Enterprise plan for sensitive fields
+(Aadhaar, PAN, bank account numbers, contact details).
+
+═══════════════════════════════════════════════════════
+ACCESS CONTROLS
+═══════════════════════════════════════════════════════
+
+- Role-based access control (RBAC) on all plans
+- Multi-factor authentication (MFA) available on Professional and Enterprise
+- SSO via SAML 2.0 on Enterprise
+- IP whitelisting on Enterprise
+- Session timeout controls on Professional and Enterprise
+- All admin actions are logged in the audit trail
+
+═══════════════════════════════════════════════════════
+BACKUPS
+═══════════════════════════════════════════════════════
+
+- Automated daily backups retained for 30 days (Starter and Professional)
+- Automated daily backups retained for 90 days (Enterprise)
+- Point-in-time recovery available on Enterprise
+- Backup restoration tested monthly
+
+═══════════════════════════════════════════════════════
+COMPLIANCE
+═══════════════════════════════════════════════════════
+
+- SOC 2 Type II certified (audit report available on request for Enterprise)
+- Compliant with India's Personal Data Protection Bill (PDPB) guidelines
+- GDPR-aligned data processing practices
+- Annual third-party penetration testing
+- Bug bounty program in place
+
+═══════════════════════════════════════════════════════
+DATA RETENTION AND DELETION
+═══════════════════════════════════════════════════════
+
+Active subscription: Data retained indefinitely.
+After cancellation: Data retained for 60 days for export, then permanently deleted.
+Deletion certificates: Available on request for Enterprise customers.
+Individual record deletion: Available via API and UI for PDPB compliance.
+
+═══════════════════════════════════════════════════════
+INCIDENT RESPONSE
+═══════════════════════════════════════════════════════
+
+In the event of a confirmed data breach:
+- Affected customers notified within 72 hours
+- Incident report provided within 30 days
+- Nexus maintains cyber liability insurance

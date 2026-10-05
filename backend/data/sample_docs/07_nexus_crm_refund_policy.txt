@@ -1,0 +1,59 @@
+NEXUS CRM — REFUND AND CANCELLATION POLICY
+Effective: January 2024
+
+═══════════════════════════════════════════════════════
+CANCELLATION
+═══════════════════════════════════════════════════════
+
+You may cancel your Nexus CRM subscription at any time from the Account Settings page
+or by contacting support@nexuscrm.in.
+
+Monthly subscriptions: Cancellation takes effect at the end of the current billing month.
+Annual subscriptions: Cancellation takes effect at the end of the current annual term.
+
+After cancellation, your account enters a 60-day grace period during which you can:
+- Export all your data in CSV or Excel format
+- Re-activate your subscription at the same plan and price
+
+After 60 days, all data is permanently and irreversibly deleted.
+
+═══════════════════════════════════════════════════════
+REFUND POLICY
+═══════════════════════════════════════════════════════
+
+Monthly plans:
+- No refunds are issued for the current billing month after payment is processed.
+- If you cancel before the next billing date, no further charges apply.
+
+Annual plans:
+- Full refund within 14 days of the start of a new annual subscription, if the
+  product does not meet the features as described at the time of purchase.
+- Pro-rata refund for the unused months if cancellation is requested within 30 days
+  of annual renewal and the organization has fewer than 50 users.
+- No refund for cancellations requested after 30 days of annual renewal.
+
+Free trial period:
+- No charges are made during the 14-day free trial.
+- If you do not enter billing details, the account is automatically deactivated
+  after the trial without any charge.
+
+═══════════════════════════════════════════════════════
+EXCEPTIONS
+═══════════════════════════════════════════════════════
+
+Refunds may be considered in exceptional circumstances (e.g., extended downtime
+caused by Nexus infrastructure failure beyond the SLA limit). Such requests are
+reviewed by the Finance team within 10 business days.
+
+SLA credits (not refunds) are issued when uptime falls below the guaranteed 99.9%
+in any calendar month. Credit amount: 10% of monthly fee per 1 hour of excess downtime,
+capped at one month's fee.
+
+═══════════════════════════════════════════════════════
+HOW TO REQUEST A REFUND
+═══════════════════════════════════════════════════════
+
+Email: billing@nexuscrm.in
+Subject line: Refund Request — [Your Organization Name] — [Invoice Number]
+Include: Reason for refund, invoice number, and bank details for NEFT transfer.
+Processing time: 7–10 business days after approval.

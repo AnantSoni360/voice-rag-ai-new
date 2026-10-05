@@ -1,0 +1,113 @@
+NEXUS CRM — ENTERPRISE GUIDE
+For organizations with 20+ users | Updated: October 2024
+
+═══════════════════════════════════════════════════════
+ENTERPRISE OVERVIEW
+═══════════════════════════════════════════════════════
+
+The Nexus CRM Enterprise plan is built for large organizations that require maximum
+control, customization, compliance, and dedicated support.
+
+Enterprise features are not available on Starter or Professional plans.
+
+═══════════════════════════════════════════════════════
+DEPLOYMENT OPTIONS
+═══════════════════════════════════════════════════════
+
+1. CLOUD (Default)
+   Hosted on Nexus-managed infrastructure in Mumbai and Hyderabad.
+   Automatic updates, backups, and maintenance handled by Nexus.
+   Best for organizations that want zero infrastructure management.
+
+2. DEDICATED CLOUD
+   A private cloud instance reserved exclusively for your organization.
+   Isolated compute and storage resources.
+   Custom domain (e.g., crm.yourcompany.com) and subdomain configuration.
+
+3. ON-PREMISE (Optional)
+   Deploy Nexus CRM within your own data center or private cloud (AWS, Azure, GCP).
+   Requires a minimum 3-year contract.
+   Nexus provides installation support, regular patch delivery, and remote monitoring.
+   On-premise is available for organizations with strict data sovereignty requirements.
+
+═══════════════════════════════════════════════════════
+ADMIN CONSOLE
+═══════════════════════════════════════════════════════
+
+The Enterprise Admin Console provides centralized control over:
+- User provisioning and de-provisioning
+- Single Sign-On (SSO) via SAML 2.0, Google Workspace, or Microsoft Entra ID
+- Custom role and permission configuration
+- IP whitelisting and session controls
+- Audit log access (all user actions, login events, data exports)
+- Department and territory management
+- Field-level data encryption for sensitive records
+
+═══════════════════════════════════════════════════════
+SECURITY AND COMPLIANCE
+═══════════════════════════════════════════════════════
+
+Enterprise customers receive:
+- SOC 2 Type II attestation report on request
+- Annual penetration test report on request
+- Custom DPA (Data Processing Agreement) for regulatory requirements
+- PDPB compliance documentation
+- VAPT (Vulnerability Assessment and Penetration Testing) certificate
+- Ability to configure data retention and automatic deletion rules
+- Field-level encryption for Aadhaar, PAN, and financial data fields
+
+═══════════════════════════════════════════════════════
+SLA AND SUPPORT
+═══════════════════════════════════════════════════════
+
+Enterprise SLA:
+- 99.9% uptime guarantee (per month)
+- 2-hour initial response SLA for P1 (critical) issues
+- 24/7 phone, email, and dedicated Slack channel support
+- Dedicated Customer Success Manager (CSM) assigned within 5 days
+- Quarterly Business Review (QBR) meetings with Nexus leadership
+- Escalation path to VP of Engineering for critical production issues
+
+═══════════════════════════════════════════════════════
+CAPACITY AND SCALABILITY
+═══════════════════════════════════════════════════════
+
+Enterprise plans scale with your organization:
+- Unlimited users (minimum 20 to qualify)
+- Unlimited contacts, companies, and deals
+- Unlimited custom fields and modules
+- Unlimited storage (subject to fair use; 1 TB included, additional at cost)
+- Unlimited API calls (subject to rate limits — 10,000 requests per minute)
+
+For organizations with 200+ users, Nexus recommends a dedicated cloud or on-premise
+deployment to ensure optimal performance during peak usage.
+
+═══════════════════════════════════════════════════════
+ENTERPRISE PRICING
+═══════════════════════════════════════════════════════
+
+Enterprise pricing is customized based on:
+- Number of users
+- Deployment type (cloud, dedicated cloud, on-premise)
+- Contract length (1, 2, or 3 years)
+- Required integrations and customizations
+- Support tier
+
+Typical price range: ₹4,000–₹8,000 per user per month.
+Multi-year contracts typically carry 15–25% additional discounts.
+
+To receive a custom quote, contact enterprise@nexuscrm.in or call 1800-123-4567.
+
+═══════════════════════════════════════════════════════
+ONBOARDING AND IMPLEMENTATION
+═══════════════════════════════════════════════════════
+
+Enterprise onboarding includes:
+Week 1–2: Discovery, environment setup, SSO configuration
+Week 3–4: Data migration from existing CRM, custom field setup
+Week 5–6: Team training (Admin, Manager, Sales Rep sessions)
+Week 7–8: Go-live support, feedback cycle, handoff to CSM
+
+Implementation timeline varies by organization size and complexity.
+Standard enterprise implementation: 4–8 weeks.
+Complex on-premise implementations: 8–16 weeks.

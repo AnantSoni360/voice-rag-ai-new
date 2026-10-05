@@ -1,0 +1,89 @@
+NEXUS CRM — INTEGRATION GUIDE
+Supported Integrations | October 2024
+
+═══════════════════════════════════════════════════════
+COMMUNICATION INTEGRATIONS
+═══════════════════════════════════════════════════════
+
+GMAIL AND GOOGLE WORKSPACE
+Available on: All plans
+- Two-way email sync
+- Automatic contact creation from email signatures
+- Email tracking (open and click notifications)
+- Send emails from within Nexus CRM using your Gmail account
+
+MICROSOFT 365 (OUTLOOK)
+Available on: Professional and Enterprise
+- Outlook email sync
+- Teams meeting scheduling from Nexus CRM
+- SharePoint document linking
+
+WHATSAPP BUSINESS API
+Available on: Professional and Enterprise (₹2,999 one-time setup)
+- Send automated WhatsApp messages in sequences
+- Templates must be pre-approved by WhatsApp
+- Inbound WhatsApp messages logged in contact timeline
+- Supported languages: Hindi and English
+
+═══════════════════════════════════════════════════════
+ACCOUNTING AND BILLING
+═══════════════════════════════════════════════════════
+
+TALLY PRIME AND TALLY ERP 9
+Available on: Professional and Enterprise
+- Sync invoices and payments from Tally to Nexus CRM
+- Create quotations in Nexus CRM that push to Tally
+- View payment status against deals
+
+ZOHO BOOKS
+Available on: Professional and Enterprise
+- Bidirectional sync of invoices, payments, and contacts
+- GST report alignment between Nexus CRM and Zoho Books
+
+RAZORPAY
+Available on: Professional and Enterprise
+- Track payments received against deals
+- Payment link generation from within Nexus CRM
+- Automated deal closure on payment confirmation
+
+═══════════════════════════════════════════════════════
+CALENDAR AND SCHEDULING
+═══════════════════════════════════════════════════════
+
+GOOGLE CALENDAR
+Available on: All plans
+- Sync Nexus CRM tasks and meetings with Google Calendar
+- Schedule demo calls with one click using Calendly-style booking links
+- Meeting reminders pushed to calendar
+
+MICROSOFT OUTLOOK CALENDAR
+Available on: Professional and Enterprise
+
+═══════════════════════════════════════════════════════
+AUTOMATION PLATFORMS
+═══════════════════════════════════════════════════════
+
+ZAPIER
+Available on: Professional and Enterprise
+- Connect Nexus CRM with 5,000+ apps via Zapier
+- Trigger Zaps when a deal is created, updated, or moved
+
+MAKE (INTEGROMAT)
+Available on: Professional and Enterprise
+- Visual automation builder for complex workflows
+
+NEXUS CRM REST API
+Available on: Professional and Enterprise
+- Full REST API with OAuth 2.0 authentication
+- Webhooks for real-time event notifications
+- API rate limit: 1,000 requests/minute (Professional), 10,000/minute (Enterprise)
+- API documentation: developers.nexuscrm.in
+
+═══════════════════════════════════════════════════════
+CUSTOM INTEGRATIONS
+═══════════════════════════════════════════════════════
+
+For integrations not listed above, Nexus offers:
+- Custom integration development: ₹15,000–₹75,000 project-based quote
+- Timeline: 4–12 weeks depending on complexity
+- Contact: integrations@nexuscrm.in

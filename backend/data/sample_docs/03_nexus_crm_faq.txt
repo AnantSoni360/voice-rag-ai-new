@@ -1,0 +1,121 @@
+NEXUS CRM — FREQUENTLY ASKED QUESTIONS (FAQ)
+Updated: October 2024
+
+═══════════════════════════════════════════════════════
+GENERAL QUESTIONS
+═══════════════════════════════════════════════════════
+
+Q: What is Nexus CRM?
+A: Nexus CRM is a cloud-based CRM and project management platform designed for Indian
+businesses. It helps teams manage leads, track deals, automate follow-ups, and
+collaborate efficiently — in Hindi and English.
+
+Q: Is Nexus CRM suitable for my industry?
+A: Nexus CRM is used across IT services, real estate, education, manufacturing,
+financial services, healthcare, and e-commerce. If your business involves sales,
+customer follow-ups, or team coordination, Nexus CRM is a strong fit.
+
+Q: Does Nexus CRM support Hindi?
+A: Yes. The entire Nexus CRM interface, reports, and mobile apps are available in Hindi.
+You can switch languages in the settings at any time.
+
+Q: How long does it take to set up?
+A: Most teams are up and running within 1–3 days. The Professional plan includes a
+2-hour onboarding session with a Nexus expert to accelerate setup.
+
+Q: Can I import data from my existing CRM or Excel?
+A: Yes. Nexus CRM supports CSV and Excel import for contacts, leads, and deals.
+Dedicated migration support is available for imports from Salesforce, Zoho, HubSpot,
+and Freshsales at no additional cost for Professional and Enterprise customers.
+
+═══════════════════════════════════════════════════════
+PRICING AND BILLING
+═══════════════════════════════════════════════════════
+
+Q: What is the price of Nexus CRM?
+A: Starter: ₹999/user/month. Professional: ₹2,499/user/month. Enterprise: custom quote.
+Annual billing saves 20% on all plans.
+
+Q: Is there a free trial?
+A: Yes. All plans offer a 14-day free trial. No credit card is required to start.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes. You can upgrade at any time and the new charges will be prorated.
+Downgrades take effect at the start of the next billing cycle.
+
+Q: Do you offer discounts for NGOs or startups?
+A: Yes. Registered NGOs receive a 30% discount. Startups under 2 years old with fewer
+than 20 employees qualify for our Startup Program at 50% off Starter for 12 months.
+Contact sales@nexuscrm.in to apply.
+
+Q: Is GST included in the prices?
+A: All listed prices are exclusive of GST. GST at 18% is applicable and shown separately
+on your invoice.
+
+Q: What payment methods do you accept?
+A: UPI, NEFT/RTGS, credit card, debit card, net banking, and corporate cheque.
+Purchase order support is available for Enterprise customers.
+
+═══════════════════════════════════════════════════════
+FEATURES AND INTEGRATIONS
+═══════════════════════════════════════════════════════
+
+Q: Does Nexus CRM integrate with WhatsApp?
+A: Yes, on Professional and Enterprise plans. WhatsApp Business API integration requires
+a one-time activation fee of ₹2,999. It enables automated WhatsApp follow-up sequences.
+
+Q: Can I integrate Nexus CRM with Tally?
+A: Yes. Nexus CRM integrates with Tally ERP 9 and Tally Prime for invoice syncing
+and payment tracking. Available on Professional and Enterprise plans.
+
+Q: Does Nexus CRM have a mobile app?
+A: Yes. The Nexus CRM app is available on Android (Play Store) and iOS (App Store).
+Offline mode is supported with sync when you reconnect.
+
+Q: How many users can I add?
+A: Starter supports 1 to unlimited users (billed per user). Professional requires
+minimum 3 users. Enterprise requires minimum 20 users.
+
+Q: Does Nexus CRM support role-based access control?
+A: Basic roles (Admin, Manager, Sales Rep) are available on all plans.
+Custom role-based access control (RBAC) with granular permission sets is available
+on the Enterprise plan.
+
+═══════════════════════════════════════════════════════
+SUPPORT
+═══════════════════════════════════════════════════════
+
+Q: What support options are available?
+A: All plans get access to our knowledge base and community forum.
+Starter: email support with 48-hour response SLA.
+Professional: priority email and chat support with 12-hour SLA.
+Enterprise: 24/7 phone, email, and chat with 2-hour SLA plus a dedicated CSM.
+
+Q: Do you offer training?
+A: Yes. Free onboarding webinars are available every Tuesday.
+Professional plan includes a 2-hour live onboarding session.
+Paid team training sessions (up to 10 participants) are available at ₹4,999 per session.
+
+Q: In what languages is support available?
+A: Support is available in English and Hindi.
+
+═══════════════════════════════════════════════════════
+SECURITY AND DATA
+═══════════════════════════════════════════════════════
+
+Q: Where is my data stored?
+A: All data is stored in India — our data centers are located in Mumbai and Hyderabad.
+Enterprise customers may request custom data residency.
+
+Q: Is my data secure?
+A: Yes. Nexus CRM uses AES-256 encryption at rest and TLS 1.3 in transit.
+We conduct annual third-party security audits and are SOC 2 Type II compliant.
+
+Q: Can I export my data?
+A: Yes. You can export all your contacts, deals, tasks, and reports to CSV or Excel
+at any time. A full data export for account closure is available within 30 days
+of subscription cancellation at no charge.
+
+Q: What happens to my data if I cancel?
+A: Your data is retained for 60 days after cancellation, during which you can export
+it. After 60 days, data is permanently deleted from our servers.
