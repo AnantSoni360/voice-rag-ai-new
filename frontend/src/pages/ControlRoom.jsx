@@ -53,7 +53,8 @@ export default function ControlRoom() {
     if (sessionActive && activeTask?.sessionId) {
       convInterval = setInterval(async () => {
         try {
-          const res = await fetch(`http://localhost:8000/api/conversations/${activeTask.sessionId}/messages`);
+          const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+          const res = await fetch(`${baseUrl}/api/conversations/${activeTask.sessionId}/messages`);
           const data = await res.json();
           // Filter out the system prompt, map to frontend format
           const formatted = data

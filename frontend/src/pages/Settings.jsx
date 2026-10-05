@@ -225,7 +225,7 @@ export default function SettingsPage() {
           <input type="number" className="form-input" value={cfg.sessionTimeout} onChange={e => set('sessionTimeout', +e.target.value)} style={{ width: 100 }} id="session-timeout" />
         </SettingRow>
         <SettingRow label="API Health Check" desc="">
-          <a href="http://localhost:8000/health" target="_blank" rel="noreferrer" className="btn btn-secondary btn-sm" id="health-check-btn">
+          <a href={`${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/health`} target="_blank" rel="noreferrer" className="btn btn-secondary btn-sm" id="health-check-btn">
             Check Status
           </a>
         </SettingRow>
