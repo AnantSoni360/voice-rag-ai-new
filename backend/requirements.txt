@@ -22,7 +22,7 @@ aiofiles==24.1.0
 structlog==24.4.0
 prometheus-client==0.21.1
 tenacity==9.0.0
-numpy==2.2.0
+numpy<2.0.0
 pandas==2.2.3
 cloudinary==1.38.0
 slowapi>=0.1.9
